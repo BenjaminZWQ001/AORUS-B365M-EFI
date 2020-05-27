@@ -3,13 +3,13 @@
 
 #### Lilu.kext
 
-v1.3.9 |
+v1.4.4 |
 [Sources](https://github.com/acidanthera/Lilu)
 
 
 #### VirtualSMC.kext
 
-v1.0.9 |
+v1.1.3 |
 [Sources](https://github.com/acidanthera/VirtualSMC)
 
 - SMCBatteryManager.kext
@@ -19,12 +19,12 @@ v1.0.9 |
 
 #### AppleALC.kext
 
-v1.4.3 |
+v1.4.9 |
 [Sources](https://github.com/acidanthera/AppleALC)
 
 #### WhateverGreen.kext
 
-v1.3.4 |
+v1.3.9 |
 [Sources](https://github.com/acidanthera/WhateverGreen)
 
 #### AGPMInjector.kext
