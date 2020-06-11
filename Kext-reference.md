@@ -3,13 +3,13 @@
 
 #### Lilu.kext
 
-v1.4.4 |
+v1.4.5 |
 [Sources](https://github.com/acidanthera/Lilu)
 
 
 #### VirtualSMC.kext
 
-v1.1.3 |
+v1.1.4 |
 [Sources](https://github.com/acidanthera/VirtualSMC)
 
 - SMCBatteryManager.kext
@@ -19,17 +19,17 @@ v1.1.3 |
 
 #### AppleALC.kext
 
-v1.4.9 |
+v1.5.0 |
 [Sources](https://github.com/acidanthera/AppleALC)
 
 #### WhateverGreen.kext
 
-v1.3.9 |
+v1.4.0 |
 [Sources](https://github.com/acidanthera/WhateverGreen)
 
 #### AGPMInjector.kext
 
-v2.4.3 |
+v3.2.4 |
 [Sources](https://github.com/Pavo-IM/AGPMInjector)
 
 
@@ -38,14 +38,8 @@ v2.4.3 |
 v2.4.1d1 |
 [Sources](https://github.com/Mieze/IntelMausiEthernet)
 
-
-#### ~~(Deprecated) NoVPAJpeg.kext~~
-
-~~v1.0.0 |~~
-~~[Sources](https://github.com/vulgo/NoVPAJpeg)~~
-
 #### USBInjectAll.kext
 
-v0.7.0 |
+v0.7.5 |
 [Sources](https://github.com/RehabMan/OS-X-USB-Inject-All)
 
