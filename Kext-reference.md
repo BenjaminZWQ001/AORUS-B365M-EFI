@@ -3,13 +3,13 @@
 
 #### Lilu.kext
 
-v1.4.6 |
+v1.4.7 |
 [Sources](https://github.com/acidanthera/Lilu)
 
 
 #### VirtualSMC.kext
 
-v1.1.5 |
+v1.1.6 |
 [Sources](https://github.com/acidanthera/VirtualSMC)
 
 - SMCLightSensor.kext
@@ -18,12 +18,12 @@ v1.1.5 |
 
 #### AppleALC.kext
 
-v1.5.1 |
+v1.5.2 |
 [Sources](https://github.com/acidanthera/AppleALC)
 
 #### WhateverGreen.kext
 
-v1.4.1 |
+v1.4.2 |
 [Sources](https://github.com/acidanthera/WhateverGreen)
 
 #### AGPMInjector.kext
